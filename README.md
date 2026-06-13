@@ -1,9 +1,7 @@
 # Tiffany-Jiahan-Wang
 Applied Mathematics Student at UC Santa Barbara
 ## Interests
--Mathematical Modeling
--Data Science
--Scientific Computing
+Mathematical Modeling, Data Science, and Scientific Computing
 ## Current Project
 Swimming Ring Stability Analysis and Simulation
 ## Goals
